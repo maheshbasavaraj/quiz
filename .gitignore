@@ -49,3 +49,5 @@ npm-debug.log*
 yarn-error.log*
 .turbo/
 coverage/
+*.git.archived-*/
+.git.archived-*/
